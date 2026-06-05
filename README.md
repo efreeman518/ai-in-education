@@ -16,13 +16,13 @@ Students using AI passively — submitting AI-generated answers rather than enga
 
 **AI zeroed out that friction cost.** A polished, confident, well-structured answer to almost any question is available in seconds — no social risk, no money, minimal effort. This is a qualitative change, not just a quantitative one. The lazy option didn't get easier. It became frictionless.
 
-**There is a neurological dimension worth taking seriously.** Habits form along paths of least resistance. If a developing mind learns that sustained cognitive effort is always optional — that relief is one prompt away — the default neural pathway toward effortful thinking may genuinely weaken over time. This pattern has precedent: habitual GPS use measurably degrades spatial memory and hippocampal-dependent navigation ([Dahmani & Bohbot, *Scientific Reports*, 2020](https://www.nature.com/articles/s41598-020-62877-0)). The evidence on calculators and arithmetic fluency is more mixed, but studies consistently find that heavy early reliance produces weaker number sense and reduced mental computation ability ([Carr et al., *PLOS ONE*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821400/)).
+**There is a neurological dimension worth taking seriously.** Habits form along paths of least resistance. If a developing mind learns that sustained cognitive effort is always optional — that relief is one prompt away — the default neural pathway toward effortful thinking may genuinely weaken over time. This pattern has precedent: habitual GPS use measurably degrades spatial memory and hippocampal-dependent navigation ([Dahmani & Bohbot, *Scientific Reports*, 2020](https://www.nature.com/articles/s41598-020-62877-0)). The evidence on calculators and arithmetic fluency is more mixed, but studies consistently find that heavy early reliance produces weaker number sense and reduced mental computation ability ([LaCour, Cantú & Davis, *PLOS ONE*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821400/)).
 
 ---
 
 ## Why Restriction Alone Doesn't Solve It
 
-**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived — research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://www.tandfonline.com/doi/full/10.1080/00461520.2020.1706949); [Edutopia, 2024](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI has made passive avoidance more accessible — it did not create the underlying problem.
+**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived — research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://www.tandfonline.com/doi/full/10.1080/00461520.2020.1706949); [Edutopia, 2022](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI has made passive avoidance more accessible — it did not create the underlying problem.
 
 **Every major tool eliminates a previous friction, and society adapts.** Writing eliminated the need to memorize everything orally. Printing eliminated manuscript copying. The calculator eliminated long division by hand. Each time, the question turned out to be how to adapt — not whether the tool should exist. The tool always wins. The question is always how to teach with it.
 
@@ -32,7 +32,7 @@ Students using AI passively — submitting AI-generated answers rather than enga
 
 ## What This Means for Teaching
 
-Without deliberate instructional design, passive AI use tends to displace active reasoning rather than support it. AI can strengthen critical thinking — but only when instruction is structured around active engagement rather than passive consumption. Research finds a significant negative correlation between passive AI reliance and critical thinking ability, mediated by cognitive offloading ([arXiv 2024](https://arxiv.org/html/2510.16019v1)), while constructive AI use — questioning, debating, scaffolding — shows large positive learning gains ([PMC 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12937814/)).
+Without deliberate instructional design, passive AI use tends to displace active reasoning rather than support it. AI can strengthen critical thinking — but only when instruction is structured around active engagement rather than passive consumption. Research finds a significant negative correlation between passive AI reliance and critical thinking ability, mediated by cognitive offloading ([arXiv 2025](https://arxiv.org/abs/2510.16019)), while constructive AI use — questioning, debating, scaffolding — shows large positive learning gains ([PMC 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12937814/)).
 
 The question facing educators and institutions is practical: **restrict access while building better instructional approaches, or build those approaches now before restriction becomes the default response?** The research base is still developing — systematic reviews characterize the current literature as dominated by meta-research with relatively limited primary empirical evidence on real-world educational outcomes ([SERDEC, 2025](https://sej.so/wp-content/uploads/2026/01/The-Evolving-Landscape-of-AI-in-Education.A-Systematic-Review-of-Contemporary-Research-2024-2025-1.pdf)); mass AI availability in schools is only a few years old.
 
@@ -132,7 +132,7 @@ An AI that argues every position with equal facility, never tires, and can inhab
 
 ### Assessment Principles
 
-Across all techniques, the shift is the same: **accountability for reasoning, not polished output** — a design consistently linked to some of the largest effect sizes in educational research ([Black & Wiliam, *Assessment in Education*, 1998](https://www.researchgate.net/publication/233067274_Assessment_and_Classroom_Learning)).
+Across all techniques, the shift is the same: **accountability for reasoning, not polished output** — a design consistently linked to some of the largest effect sizes in educational research ([Black & Wiliam, *Assessment in Education*, 1998](https://doi.org/10.1080/0969595980050102)).
 
 - Submit the full conversation log alongside any final product.
 - Require a critical reflection addendum: *What did the AI get wrong or oversimplify? What did you have to fix?*
@@ -247,7 +247,7 @@ AI is an infinitely patient tutor available at any hour.
 - `"Make flashcard prompts for the key terms in this passage: [paste]"`
 - `"Explain why my answer was wrong: I answered [your answer] but the correct answer is [correct answer]."`
 
-**Spaced repetition:** Use AI to generate question sets, then load them into [Anki](https://apps.ankiweb.net/) or [Quizlet](https://quizlet.com) for long-term retention. Distributing practice over time consistently outperforms massed study for retention ([Cepeda et al., *Psychological Bulletin*, 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC8759977/)).
+**Spaced repetition:** Use AI to generate question sets, then load them into [Anki](https://apps.ankiweb.net/) or [Quizlet](https://quizlet.com) for long-term retention. Distributing practice over time consistently outperforms massed study for retention ([Cepeda et al., *Psychological Bulletin*, 2006](https://doi.org/10.1037/0033-2909.132.3.354)).
 
 ---
 
@@ -274,9 +274,9 @@ AI language models are confident but not always accurate. They can state false f
 | Tool | Best For | Free Tier | Notes |
 |------|----------|-----------|-------|
 | [Claude](https://claude.ai) | Long documents, nuanced feedback, research | Yes | Strong reasoning; good for analysis |
-| [ChatGPT](https://chat.openai.com) | General use, brainstorming, tutoring | Yes | Widely known; large plugin ecosystem |
+| [ChatGPT](https://chatgpt.com) | General use, brainstorming, tutoring | Yes | Widely known; large plugin ecosystem |
 | [Gemini](https://gemini.google.com) | Google Workspace integration | Yes | Integrates with Docs/Sheets/Gmail |
-| [Khanmigo](https://www.khanacademy.org/khan-labs) | Student tutoring, K-12 | Yes (Khan Academy) | Purpose-built for education; Socratic style |
+| [Khanmigo](https://khanmigo.ai) | Student tutoring, K-12 | Yes (Khan Academy) | Purpose-built for education; Socratic style |
 | [Perplexity](https://www.perplexity.ai) | Research with citations | Yes | Provides source links; reduces hallucination risk |
 | [NotebookLM](https://notebooklm.google.com) | Analyzing specific documents | Yes | Stays grounded in uploaded sources |
 | [Anki](https://apps.ankiweb.net/) | Spaced repetition flashcards | Yes | Use with AI-generated card sets |
@@ -288,9 +288,9 @@ AI language models are confident but not always accurate. They can state false f
 
 **For Educators:**
 - [UNESCO: AI Competency Framework for Teachers](https://www.unesco.org/en/articles/ai-competency-framework-teachers)
-- [ISTE AI in Education Resources](https://iste.org/ai)
+- [ISTE AI in Education Resources](https://iste-ascd.org/ai)
 - [Harvard Graduate School of Education: AI in Education](https://www.gse.harvard.edu/ideas/themes/artificial-intelligence-education)
-- [Common Sense Education: AI Literacy](https://www.commonsense.org/education/articles/ai-literacy)
+- [Common Sense Education: AI Literacy](https://www.commonsense.org/education/collections/ai-literacy-lessons-for-grades-6-12)
 
 **For Students:**
 - [Elements of AI](https://www.elementsofai.com/) — free intro to how AI works
@@ -302,6 +302,17 @@ AI language models are confident but not always accurate. They can state false f
 - [Stanford HAI: AI in Education](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
 - [RAND Corporation: AI in K-12 Education](https://www.rand.org/)
 - [Educause: AI in Higher Ed](https://www.educause.edu/research-and-publications/research/artificial-intelligence)
+- [Brookings Global Task Force on AI in Education](https://www.brookings.edu/projects/brookings-global-task-force-on-ai-in-education/) — international body focused on ensuring AI strengthens rather than undermines learning
+- [OECD–EC AI Literacy Framework for Primary & Secondary Education](https://ailiteracyframework.org/) — global standards across four domains: Engage, Create, Manage, and Design AI
+- [Anthropic: AI Fluency for Students & Higher Education Advisory Board](https://www.anthropic.com/news/anthropic-higher-education-initiatives) — curriculum and advisory resources on preserving critical thinking
+
+**On AI and Critical Thinking — Key Studies:**
+- [Lee et al., Microsoft Research & CMU, 2025](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf) — higher AI confidence correlates with less critical thinking; AI-assisted workers produced less diverse solutions
+- [Gerlich, *MDPI Societies*, 2025](https://www.mdpi.com/2075-4698/15/1/6) — 666-participant study finding significant negative correlation between AI tool usage and critical thinking, mediated by cognitive offloading; effect strongest in ages 17–25
+- [Georgiou, *arXiv / Stanford SCALE*, 2025](https://scale.stanford.edu/ai/repository/chatgpt-produces-more-lazy-thinkers-evidence-cognitive-engagement-decline) — experimental study showing ChatGPT use produces significantly lower cognitive engagement scores in academic writing
+- [PMC: The Cognitive Paradox of AI in Education](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12036037/) — peer-reviewed review of enhancement vs. erosion effects
+- [Phys.org: Increased AI Use Linked to Eroding Critical Thinking Skills](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html) — reporting on MIT Media Lab EEG study showing lowest brain engagement in ChatGPT users
+- [Hechinger Report: University Students Offload Critical Thinking to AI](https://hechingerreport.org/proof-points-offload-critical-thinking-ai/) — accessible journalism summary of the academic literature
 
 ---
 
