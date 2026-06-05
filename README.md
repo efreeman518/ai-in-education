@@ -16,13 +16,13 @@ Students using AI passively — submitting AI-generated answers rather than enga
 
 **AI zeroed out that friction cost.** A polished, confident, well-structured answer to almost any question is available in seconds — no social risk, no money, minimal effort. This is a qualitative change, not just a quantitative one. The lazy option didn't get easier. It became frictionless.
 
-**There is a neurological dimension worth taking seriously.** Habits form along paths of least resistance. If a developing mind learns that sustained cognitive effort is always optional — that relief is one prompt away — the default neural pathway toward effortful thinking may genuinely weaken over time. This pattern has precedent: habitual GPS use measurably degrades spatial memory and hippocampal-dependent navigation ([Dahmani & Bohbot, *Scientific Reports*, 2020](https://www.nature.com/articles/s41598-020-62877-0)). The evidence on calculators and arithmetic fluency is more mixed, but studies consistently find that heavy early reliance produces weaker number sense and reduced mental computation ability ([LaCour, Cantú & Davis, *PLOS ONE*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821400/)).
+**There is a neurological dimension worth taking seriously.** Habits form along paths of least resistance. If a developing mind learns that sustained cognitive effort is always optional — that relief is one prompt away — the default neural pathway toward effortful thinking may genuinely weaken over time. This pattern has precedent: habitual GPS use measurably degrades spatial memory and hippocampal-dependent navigation ([Dahmani & Bohbot, *Scientific Reports*, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156656/)). The evidence on calculators and arithmetic fluency is more mixed, but studies consistently find that heavy early reliance produces weaker number sense and reduced mental computation ability ([LaCour, Cantú & Davis, *PLOS ONE*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821400/)).
 
 ---
 
 ## Why Restriction Alone Doesn't Solve It
 
-**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived — research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://www.tandfonline.com/doi/full/10.1080/00461520.2020.1706949); [Edutopia, 2022](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI has made passive avoidance more accessible — it did not create the underlying problem.
+**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived — research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://visible-learning.org/2009/02/visible-learning-meta-study/); [Edutopia, 2022](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI has made passive avoidance more accessible — it did not create the underlying problem.
 
 **Every major tool eliminates a previous friction, and society adapts.** Writing eliminated the need to memorize everything orally. Printing eliminated manuscript copying. The calculator eliminated long division by hand. Each time, the question turned out to be how to adapt — not whether the tool should exist. The tool always wins. The question is always how to teach with it.
 
@@ -132,7 +132,7 @@ An AI that argues every position with equal facility, never tires, and can inhab
 
 ### Assessment Principles
 
-Across all techniques, the shift is the same: **accountability for reasoning, not polished output** — a design consistently linked to some of the largest effect sizes in educational research ([Black & Wiliam, *Assessment in Education*, 1998](https://doi.org/10.1080/0969595980050102)).
+Across all techniques, the shift is the same: **accountability for reasoning, not polished output** — a design consistently linked to some of the largest effect sizes in educational research ([Black & Wiliam, *Assessment in Education*, 1998](https://assess.ucr.edu/sites/default/files/2019-02/blackwiliam_1998.pdf)).
 
 - Submit the full conversation log alongside any final product.
 - Require a critical reflection addendum: *What did the AI get wrong or oversimplify? What did you have to fix?*
@@ -247,7 +247,7 @@ AI is an infinitely patient tutor available at any hour.
 - `"Make flashcard prompts for the key terms in this passage: [paste]"`
 - `"Explain why my answer was wrong: I answered [your answer] but the correct answer is [correct answer]."`
 
-**Spaced repetition:** Use AI to generate question sets, then load them into [Anki](https://apps.ankiweb.net/) or [Quizlet](https://quizlet.com) for long-term retention. Distributing practice over time consistently outperforms massed study for retention ([Cepeda et al., *Psychological Bulletin*, 2006](https://doi.org/10.1037/0033-2909.132.3.354)).
+**Spaced repetition:** Use AI to generate question sets, then load them into [Anki](https://apps.ankiweb.net/) or [Quizlet](https://quizlet.com) for long-term retention. Distributing practice over time consistently outperforms massed study for retention ([Cepeda et al., *Psychological Bulletin*, 2006](https://augmentingcognition.com/assets/Cepeda2006.pdf)).
 
 ---
 
@@ -301,7 +301,7 @@ AI language models are confident but not always accurate. They can state false f
 **Research and Policy:**
 - [Stanford HAI: AI in Education](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
 - [RAND Corporation: AI in K-12 Education](https://www.rand.org/)
-- [Educause: AI in Higher Ed](https://www.educause.edu/research-and-publications/research/artificial-intelligence)
+- [Educause: AI in Higher Ed](https://library.educause.edu/resources/2025/2/2025-educause-ai-landscape-study)
 - [Brookings Global Task Force on AI in Education](https://www.brookings.edu/projects/brookings-global-task-force-on-ai-in-education/) — international body focused on ensuring AI strengthens rather than undermines learning
 - [OECD–EC AI Literacy Framework for Primary & Secondary Education](https://ailiteracyframework.org/) — global standards across four domains: Engage, Create, Manage, and Design AI
 - [Anthropic: AI Fluency for Students & Higher Education Advisory Board](https://www.anthropic.com/news/anthropic-higher-education-initiatives) — curriculum and advisory resources on preserving critical thinking
