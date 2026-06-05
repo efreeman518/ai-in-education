@@ -30,7 +30,7 @@ That case is strong. It is also incomplete.
 
 **Friction was never the real teacher.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep Socratic engagement was already rare in most classrooms long before AI arrived. AI didn't destroy critical thinking in education. It exposed that it was already largely absent.
 
-**Every major tool eliminates a previous friction, and society adapts.** Writing eliminated the need to memorize everything orally. Printing eliminated manuscript copying. The calculator eliminated long division by hand. Each produced the same panic. Each time, the question turned out to be how to adapt — not whether the tool should exist. The tool always wins. The question is always pedagogical.
+**Every major tool eliminates a previous friction, and society adapts.** Writing eliminated the need to memorize everything orally. Printing eliminated manuscript copying. The calculator eliminated long division by hand. Each produced the same panic. Each time, the question turned out to be how to adapt — not whether the tool should exist. The tool always wins. The question is always how to teach with it.
 
 **Banning AI doesn't restore the pre-AI baseline.** It produces students who will use AI the moment they leave the classroom — but without a framework for evaluating what AI gives them. A student trained only to avoid AI develops no immunity to lazy AI use in the real world. They develop it unsupervised later, with no critical scaffolding.
 
@@ -42,82 +42,110 @@ For the median student, in the median classroom, with the median teacher, **AI i
 
 The optimistic case — that AI can strengthen critical thinking — describes a potential state, not the current one. Achieving it requires intentional effort that most educational systems haven't made yet.
 
-The question facing educators and institutions is this: **restrict the tool until pedagogy catches up, or race to build the pedagogy before restriction becomes permanent instinct?** There are serious people on both sides. The evidence is still thin.
+The question facing educators and institutions is this: **restrict the tool until better teaching approaches can be designed around it, or race to build those approaches before restriction becomes permanent instinct?** There are serious people on both sides. The evidence is still thin.
 
 The lazy option has always existed in some form. What AI did was make it **scalable and invisible**. The solution to an invisible problem isn't a ban — it's making the thinking process visible again through assessment design. The friction that mattered was never about difficulty of access. It was about accountability for your own reasoning. That's recoverable. It just requires deliberate effort.
 
 ---
 
-## Framework: AI as Adversary, Not Oracle
+## How to Teach With AI: The Adversary Model
 
-The danger isn't AI. It's answer-seeking behavior. The fix isn't banning AI; it's training students to be question-generators rather than answer-collectors.
+The danger isn't AI — it's answer-seeking behavior. The fix is training students to be question-generators rather than answer-collectors, and to treat AI as a tool of resistance rather than convenience.
 
-The core mindset shift: **use AI as a tool of resistance, not a tool of convenience.**
+An AI that pushes back indefinitely, argues every position with equal facility, and never tires is — potentially — a better Socratic sparring partner than most available alternatives. Students who learn to fight with it develop stronger reasoning than those who surrender to it. Students who just ask it for answers are practicing the skill of not thinking. They will feel that deficit the moment they face a problem AI can't solve.
 
-An AI that pushes back, argues every position with equal facility, and never runs out of counterarguments is — potentially — a better Socratic sparring partner than most available alternatives. Students who learn to fight with it rather than surrender to it can develop unusually strong critical thinking precisely because they've had to contend with a tireless, knowledgeable adversary.
-
-The students who just ask it for answers are practicing the skill of not thinking. They will feel that deficit the moment they face a problem AI can't solve for them.
+**The key assessment shift: stop grading outputs, start grading process.** When assessment is tied to the quality of reasoning rather than the polished final product, the incentive structure changes. Using AI to skip thinking no longer helps.
 
 ---
 
-## Strategic Pillars
+### Technique 1: Steelman & Rebut
 
-### 1. Steelman Training
+**Develops:** Argument quality; understanding opposing positions with genuine rigor before dismissing them.
 
-Students pick a position they personally disagree with and use AI to build the strongest possible case for that position. Then they write a rebuttal. The AI never lets them strawman — it keeps generating better arguments. The muscle being built: understanding opposing views with genuine rigor before dismissing them.
+**How:** The student picks a position they personally disagree with. They use AI to build the strongest possible case for that position — the AI keeps generating better arguments whenever the student tries to strawman. The student then writes a rebuttal.
 
-### 2. Claim Auditing
-
-Students bring a claim — from a textbook, a news article, a social media post, even something the AI itself said — and task the AI to help them attack it. What assumptions does it rest on? What evidence would falsify it? What is the weakest link? The AI becomes a forensic tool, not a source of truth.
-
-### 3. Socratic Loops
-
-Students are prohibited from asking AI for answers. They can only ask it questions. The AI responds with information, and the student must formulate the next question. The instructor reviews the question chain, not the final answer. What gets graded is the quality of inquiry, not the conclusions reached.
-
-### 4. Red Team / Blue Team
-
-Two students — or two separate AI sessions — each use AI to argue opposite sides of a complex issue. They then debate each other. The rule: each side must cite weaknesses in their own AI's argument during the debate. This forces metacognitive evaluation of AI-generated reasoning rather than uncritical adoption of it.
-
-### 5. Epistemic Source-Tracing
-
-After any AI-assisted research session, students must map every major claim to a primary source — independently of the AI. If they can't find it, the claim is struck. This trains the correct epistemic relationship: treat AI output as a lead, not a fact.
+**Grade:** The strength of the steelman, not the rebuttal. A weak opposing argument means the student hasn't done the work.
 
 ---
 
-## Concrete Exercises
+### Technique 2: Devil's Advocate Loop
 
-### Catch the AI Lying
+**Develops:** Sustained reasoning under pressure; willingness to revise.
 
-Give students a topic and have them use AI to research it, then spend equal time trying to find factual errors, outdated information, or subtle misrepresentations in what the AI told them. The debriefing discussion is where the real learning happens. Students who find nothing haven't looked hard enough.
+**How:** The student writes a short argument on any topic. The AI plays devil's advocate. The student revises. The AI pushes harder. Repeat for 3–4 rounds. The final submission is the entire exchange, annotated with what changed after each round and why.
 
-### Devil's Advocate Loop
-
-The student writes a short argument on any topic. The AI plays devil's advocate. The student revises. The AI pushes harder. Repeat for 3–4 rounds. The final submission is the entire exchange, annotated with what changed and why. Grade the annotations, not the final argument.
-
-### Predict, Then Prompt
-
-Before asking AI a question, students write down what they think the answer is and their reasoning. They then compare to the AI's response. Discrepancies become the essay topic: *Where was my reasoning wrong, and why?* This directly measures prior knowledge and reveals misconceptions.
-
-### Build the Rubric First
-
-Before using AI to help with any assignment, students must define the criteria by which a good answer would be evaluated. They submit the rubric before the AI session begins. Then they grade the AI's output against their own rubric. This inverts the power dynamic: the student is the evaluator, not the recipient.
-
-### The Unreliable Narrator
-
-Students are told — truthfully — that AI sometimes confidently states false things. Their job for the session is to find one. They must document the false claim, explain why it's false, and hypothesize why the AI might have generated it. This builds both fact-checking skills and a conceptual model of how language models actually work.
+**Grade:** The annotations — what changed, why, and whether the reasoning visibly improved.
 
 ---
 
-## What Gets Assessed
+### Technique 3: Adversarial Debate
 
-The key shift: **stop grading outputs, start grading process.**
+**Develops:** Metacognitive evaluation of AI-generated reasoning; intellectual honesty under adversarial conditions.
 
-- Submit the full conversation log alongside the final essay or assignment.
-- Grade the questions asked, not just the conclusions reached.
+**How:** Two students (or two AI sessions) each argue opposite sides of a complex issue using AI to prepare. They then debate — but the rule is that each side must cite at least one weakness in their own AI's argument during the debate. You cannot win by hiding your side's flaws.
+
+**Grade:** The quality of the self-critical acknowledgment. Students who identify genuine weaknesses in their own position are rewarded, not penalized.
+
+---
+
+### Technique 4: Claim Audit
+
+**Develops:** Forensic scrutiny of sources; correct epistemic relationship with AI output.
+
+**How:** The student brings a claim — from a textbook, news article, social media post, or something the AI itself just said — and tasks the AI to help attack it. What assumptions does it rest on? What evidence would falsify it? What is the weakest link? The AI is a probe, not an authority.
+
+**Grade:** Depth of the attack. Surface criticism ("this could be biased") earns little. Assumption-level and falsifiability-level analysis is the target.
+
+---
+
+### Technique 5: The Unreliable Narrator
+
+**Develops:** Fact-checking instincts; conceptual understanding of how language models work.
+
+**How:** Students are told — truthfully — that AI sometimes confidently states false things. Their job for the session is to find one specific falsehood, document it with evidence, and hypothesize *why* the AI generated it: training data pattern, plausible-sounding interpolation, outdated information, etc.
+
+**Grade:** The explanation for why the AI was wrong — not just that it was. The best responses show a model of *how* AI generates plausible-sounding errors, not just "the AI made it up."
+
+---
+
+### Technique 6: Socratic Loop
+
+**Develops:** Quality of inquiry; epistemic discipline.
+
+**How:** Students are prohibited from asking AI for answers. They can only ask it questions. The AI responds with information, and the student must formulate the next question. There is no final answer to submit — only the question chain.
+
+**Grade:** The quality of the questions. Does the chain narrow toward truth, expose assumptions, or wander? Strong chains show intentional reasoning.
+
+---
+
+### Technique 7: Predict, Then Prompt
+
+**Develops:** Calibration; honest self-assessment of prior knowledge.
+
+**How:** Before asking AI a question, the student writes their answer and their reasoning. They query the AI, then compare. Discrepancies become the assignment: *Where was my reasoning wrong, and what specifically caused the error?* The AI response itself is not submitted — the self-analysis is.
+
+**Grade:** Specificity of the error analysis. "I was wrong" is not acceptable. "I assumed X because Y, but the correct model is Z, and the flaw in my reasoning was W" is the target.
+
+---
+
+### Technique 8: Build the Rubric First
+
+**Develops:** Metacognitive standards; ability to evaluate reasoning rather than only produce it.
+
+**How:** Before using AI to help with any assignment, students define the criteria for a good answer. The rubric is submitted before the AI session begins. Students then use AI for the assignment and grade the AI's output against their own rubric.
+
+**Grade:** Whether the rubric is rigorous and whether the student's evaluation of AI output is accurate. A student who writes a weak rubric and gives AI a passing grade on it has exposed a gap — that is useful data.
+
+---
+
+### Assessment Principles
+
+Across all techniques, the shift is the same: **accountability for reasoning, not polished output.**
+
+- Submit the full conversation log alongside any final product.
 - Require a critical reflection addendum: *What did the AI get wrong or oversimplify? What did you have to fix?*
-- Use oral defense — if a student cannot explain their AI-assisted work without the AI, it wasn't learning.
-
-When assessment is tied to process rather than product, the incentive structure changes. Using AI to skip thinking no longer helps.
+- Use oral defense for any AI-assisted work — if a student cannot explain their reasoning without the AI, it wasn't learning.
+- In Socratic exercises, grade the questions asked, not the information gathered.
 
 ---
 
