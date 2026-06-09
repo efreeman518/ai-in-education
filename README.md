@@ -12,9 +12,9 @@ Students using AI passively - submitting AI-generated answers rather than engagi
 
 ## Why This Happens: The Friction Problem
 
-**Before AI, passive avoidance had a friction cost.** Copying from a friend required social coordination. Buying an essay was risky and expensive. Googling an answer still required reading, parsing, and synthesizing multiple sources - itself a cognitive act. The lazy path was hard enough that many students defaulted to actually thinking.
+**Before AI, passive avoidance had a friction cost.** Copying from a friend required social coordination. Buying an essay was risky and expensive. Googling an answer still required reading, parsing, and synthesizing multiple sources - itself a cognitive act. The lazy path was hard enough that many students ended up thinking anyway.
 
-**AI zeroed out that friction cost.** A polished, confident, well-structured answer to almost any question is available in seconds - no social risk, no money, minimal effort. This is a qualitative change, not just a quantitative one. The lazy option didn't get easier. It became frictionless.
+**AI zeroed out that friction cost.** A polished, confident, well-structured answer to almost any question is available in seconds - no social risk, no money, minimal effort. This is a qualitative change, not just a quantitative one. The lazy option didn't just get easier. It became frictionless.
 
 **There is a neurological dimension worth taking seriously.** Habits form along paths of least resistance. If a developing mind learns that sustained cognitive effort is always optional - that relief is one prompt away - the default neural pathway toward effortful thinking may genuinely weaken over time. This pattern has precedent: habitual GPS use measurably degrades spatial memory and hippocampal-dependent navigation ([Dahmani & Bohbot, *Scientific Reports*, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7156656/)). The evidence on calculators and arithmetic fluency is more mixed, but studies consistently find that heavy early reliance produces weaker number sense and reduced mental computation ability ([LaCour, Cantú & Davis, *PLOS ONE*, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821400/)).
 
@@ -22,7 +22,7 @@ Students using AI passively - submitting AI-generated answers rather than engagi
 
 ## Why Restriction Alone Doesn't Solve It
 
-**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived - research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://visible-learning.org/2009/02/visible-learning-meta-study/); [Edutopia, 2022](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI has made passive avoidance more accessible - it did not create the underlying problem.
+**Friction was never the real driver of critical thinking.** The cognitive work that friction forced wasn't always good cognitive work. Students who couldn't easily cheat still memorized, pattern-matched, and regurgitated. Deep inquiry-based thinking was already rare in most classrooms before AI arrived - research on classroom engagement consistently finds it requires deliberate instructional design to occur at all ([Hattie, *Visible Learning*, 2009](https://visible-learning.org/2009/02/visible-learning-meta-study/); [Edutopia, 2022](https://www.edutopia.org/article/4-common-obstacles-implementing-inquiry-based-learning-and-how-overcome-them/)). AI made passive avoidance frictionless - it did not create the underlying problem.
 
 **Every major tool eliminates a previous friction, and society adapts.** Writing eliminated the need to memorize everything orally. Printing eliminated manuscript copying. The calculator eliminated long division by hand. Each time, the question turned out to be how to adapt - not whether the tool should exist. The tool always wins. The question is always how to teach with it.
 
@@ -36,7 +36,7 @@ Without deliberate instructional design, passive AI use tends to displace active
 
 The question facing educators and institutions is practical: **restrict access while building better instructional approaches, or build those approaches now before restriction becomes the default response?** The research base is still developing - systematic reviews characterize the current literature as dominated by meta-research with relatively limited primary empirical evidence on real-world educational outcomes ([SERDEC, 2025](https://sej.so/wp-content/uploads/2026/01/The-Evolving-Landscape-of-AI-in-Education.A-Systematic-Review-of-Contemporary-Research-2024-2025-1.pdf)); mass AI availability in schools is only a few years old.
 
-What AI did to the passive-avoidance problem is make it **scalable and invisible**. A student who previously couldn't be bothered to think can now produce a polished, confident answer with no visible trace of the shortcut. The practical solution is not blocking access - it is making reasoning visible and gradable. Assessment tied to the thinking process, not the output, removes the advantage of passive AI use entirely.
+What AI did to the passive-avoidance problem is make it **frictionless, scalable, and invisible**. A student who previously couldn't be bothered to think can now produce a polished, confident answer with no visible trace of the shortcut. The practical solution is not blocking access - it is making reasoning visible and gradable. Assessment tied to the thinking process, not the output, removes the advantage of passive AI use entirely.
 
 ---
 
